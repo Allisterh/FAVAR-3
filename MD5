@@ -1,6 +1,6 @@
-0c71f4f5031a3a9fd0839b610fdd98d9 *DESCRIPTION
+f5c5dc21f930a2e2c0fd7a728add8788 *DESCRIPTION
 62f50d86802bbd0eb7b6937090fcdd9d *NAMESPACE
-13a13d1b0acaf97ad51ed95948446eaf *NEWS.md
+a1886630c8ef4bf989bf7336c99cdad0 *NEWS.md
 ff2c49ae4eeac2d87ebf528adec5b8be *R/BGM.R
 72392f68fd82378ee61d416d61545006 *R/BVAR.R
 fa81b5c782b0503026f2c32232be5d3c *R/ExtrPC.R
@@ -31,4 +31,4 @@ d66c675be50c0cfb7ee7bc4ba8dee043 *man/regdata.Rd
 9dd6bd1a60283d8eb63a60650e739a5f *man/summary.favar.Rd
 d8618499f7701561e8863e65f0bb5c2a *man/tcode.Rd
 6b4324210e6cd5dbec55d8db44c6d0ca *tests/testthat.R
-c4a896561c9e0a1f086de4ad333896e1 *tests/testthat/test_FAVAR.R
+2c9f9e47001fb0df9ac6221555457e79 *tests/testthat/test_FAVAR.R

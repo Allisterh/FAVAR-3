@@ -1,6 +1,6 @@
 Package: FAVAR
 Title: Bayesian Analysis of a FAVAR Model
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person(given = "Pu",
            family = "Chen",
@@ -28,11 +28,11 @@ Imports: matlab, ggplot2, bvartools, foreach, magrittr, MCMCpack, coda,
 Depends: R (>= 3.5.0)
 Suggests: testthat, vars, patchwork
 NeedsCompilation: no
-Packaged: 2022-02-17 00:48:46 UTC; yangnay
+Packaged: 2022-03-11 07:16:25 UTC; yangnay
 Author: Pu Chen [aut, cre] (<https://orcid.org/0000-0001-7594-6827>),
   Chen Chen [aut],
   Gary Koop [cph],
   Dimitris Korobilis [cph]
 Maintainer: Pu Chen <shengnehs@qq.com>
 Repository: CRAN
-Date/Publication: 2022-03-10 09:50:02 UTC
+Date/Publication: 2022-03-13 22:50:06 UTC
